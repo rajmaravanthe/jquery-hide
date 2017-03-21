@@ -1,3 +1,3 @@
 $(document).ready(function(){
-    $("input").hide();
+    $("input").hide(); // take all the reference input element and hide it
 })
